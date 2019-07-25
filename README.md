@@ -3,9 +3,10 @@
  [Link](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
  
  # To install:
- 
-`library(devtools)`
-`install_github("ArielSotoCaro/UFcolors")`
+``` 
+library(devtools)
+install_github("ArielSotoCaro/UFcolors")
+```
 
 # List of palettes
 - primary
