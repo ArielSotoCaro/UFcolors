@@ -1,4 +1,4 @@
-# UFcolors
+# UFcolors R-package
  R package to manage UF institutional colors into ggplot. Based on: 
  [Link](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
  
