@@ -1,11 +1,13 @@
 Package: UFcolors
 Type: Package
-Title: What the Package Does (Title Case)
+Title: UF Color Palette
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Ariel Soto-Caro <asotocaro@ufl.edu>
+Maintainer: Ariel Soto-Caro <asotocaro@ufl.edu>
+Description: This package allows to the R user invoke
+  the institutional colors into ggplot environments.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Imports:
+  ggplot2
