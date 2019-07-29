@@ -9,7 +9,7 @@ install_github("ArielSotoCaro/UFcolors")
 ```
 
 # List of palettes
-- primary
+- primary ![#FA4616](https://placehold.it/15/FA4616/000000?text=+)
 - muted
 - nice
 - neutral
