@@ -1,5 +1,5 @@
 # UFcolors R-package
- R package to manage UF institutional colors into ggplot. Based on: 
+ R package to manage University of Florida (UF) institutional colors into ggplot. Based on: 
  [Link](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2).
  Colors from [Here](http://identity.ufl.edu/color/) and [Here](https://www.eng.ufl.edu/marcom/resources/branding-style-guide/uf-engineering-color-guide/#prettyPhoto).
  
