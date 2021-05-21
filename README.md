@@ -10,11 +10,11 @@ install_github("ArielSotoCaro/UFcolors")
 ```
 
 # List of palettes
-- primary: ![#FA4616](https://placehold.it/15/FA4616/000000?text=+)  ![#0021A5](https://placehold.it/15/0021A5/000000?text=+) 
-- muted: ![#E28F41](https://placehold.it/15/E28F41/000000?text=+) ![#6C9AC3](https://placehold.it/15/6C9AC3/000000?text=+) 
-- nice: ![#E18F41](https://placehold.it/15/E18F41/000000?text=+) ![#326698](https://placehold.it/15/326698/000000?text=+) ![#6C99C2](https://placehold.it/15/6C99C2/000000?text=+) ![#A1DCED](https://placehold.it/15/A1DCED/000000?text=+) ![#BBBDC0](https://placehold.it/15/BBBDC0/000000?text=+)
-- neutral: ![#CFB691](https://placehold.it/15/CFB691/000000?text=+) ![#CFDBCB](https://placehold.it/15/CFDBCB/000000?text=+) ![#FFEFCF](https://placehold.it/15/FFEFCF/000000?text=+) ![#B1B3B6](https://placehold.it/15/B1B3B6/000000?text=+)
-- bright: ![#5E8E3F](https://placehold.it/15/5E8E3F/000000?text=+) ![#593674](https://placehold.it/15/593674/000000?text=+) ![#FCAF17](https://placehold.it/15/FCAF17/000000?text=+) ![#D7182A](https://placehold.it/15/D7182A/000000?text=+)
+- primary: ![#FA4616](https://place-hold.it/15/FA4616/000000?text=+)  ![#0021A5](https://place-hold.it/15/0021A5/000000?text=+) 
+- muted: ![#E28F41](https://place-hold.it/15/E28F41/000000?text=+) ![#6C9AC3](https://place-hold.it/15/6C9AC3/000000?text=+) 
+- nice: ![#E18F41](https://place-hold.it/15/E18F41/000000?text=+) ![#326698](https://place-hold.it/15/326698/000000?text=+) ![#6C99C2](https://place-hold.it/15/6C99C2/000000?text=+) ![#A1DCED](https://place-hold.it/15/A1DCED/000000?text=+) ![#BBBDC0](https://place-hold.it/15/BBBDC0/000000?text=+)
+- neutral: ![#CFB691](https://place-hold.it/15/CFB691/000000?text=+) ![#CFDBCB](https://place-hold.it/15/CFDBCB/000000?text=+) ![#FFEFCF](https://place-hold.it/15/FFEFCF/000000?text=+) ![#B1B3B6](https://place-hold.it/15/B1B3B6/000000?text=+)
+- bright: ![#5E8E3F](https://place-hold.it/15/5E8E3F/000000?text=+) ![#593674](https://place-hold.it/15/593674/000000?text=+) ![#FCAF17](https://place-hold.it/15/FCAF17/000000?text=+) ![#D7182A](https://place-hold.it/15/D7182A/000000?text=+)
 
 # Some examples
 
